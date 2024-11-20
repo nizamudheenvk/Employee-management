@@ -1,0 +1,16 @@
+{
+  "uploadEmp": [
+    {
+      "id": "a2db",
+      "username": "nizam",
+      "email": "mhdnisam258@gmail.com",
+      "status": "inactive"
+    },
+    {
+      "id": "bad4",
+      "username": "fadish",
+      "email": "fadish123@gmail.com",
+      "status": "inactive"
+    }
+  ]
+}
